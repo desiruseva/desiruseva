@@ -1,4 +1,13 @@
 ### Hi there 👋
+👋 I'm  a front-end developer intern with a passion for creating engaging and user-friendly web experiences. Currently pursuing my studies in Paisii Hilendarski University of Plovdiv, I'm excited to contribute my skills and learn from experienced professionals in the field.
+
+💻 Technical Skills:
+- Proficient in HTML5, CSS3, and JavaScript, with a strong understanding of web standards and best practices.
+-  Interested in programming and design and currently I'm learning Frond End & Back End technologies with JavaScript.
+- Familiarity with version control systems such as Git and collaboration platforms like GitHub.
+
+✨ Future Goals:
+I aim to further enhance my skills by working on challenging projects, expanding my knowledge of emerging technologies, and refining my ability to create exceptional user experiences.
 
 <!--
 **desiruseva/desiruseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
