@@ -5,6 +5,7 @@
 - Proficient in HTML5, CSS3, and JavaScript, with a strong understanding of web standards and best practices.
 -  Interested in programming and design and currently I'm learning Frond End & Back End technologies with JavaScript.
 - Familiarity with version control systems such as Git and collaboration platforms like GitHub.
+- Currently studying technologies like Angular and React
 
 ✨ Future Goals:
 I aim to further enhance my skills by working on challenging projects, expanding my knowledge of emerging technologies, and refining my ability to create exceptional user experiences.
